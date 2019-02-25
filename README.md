@@ -12,3 +12,8 @@ This is a simple example to show the different parts of the git repository and v
 ##Deployment
 Example just compare git.
 Little change just for have completely the enviroment for learn git comparison.
+
+## How to Contribute 
+
+## Copyright
+2014 Git training

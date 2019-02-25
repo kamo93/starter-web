@@ -6,7 +6,9 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##Purpose 2
-
 ##Introduction
 This is a simple example to show the different parts of the git repository and varius commands using a web project.
+
+##Deployment
+Example just compare git.
+Little change just for have completely the enviroment for learn git comparison.

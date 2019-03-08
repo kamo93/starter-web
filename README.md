@@ -14,6 +14,7 @@ Example just compare git.
 Little change just for have completely the enviroment for learn git comparison.
 
 ## How to Contribute 
+Please fork this repository and then issue
 
 ## Copyright
 2014 Git training

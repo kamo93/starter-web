@@ -2,8 +2,13 @@
 <!--
 	Copyright 2014 Git. Training
  -->
+<<<<<<< HEAD
 <head>
 	<title>Best Website Ever</title>
+=======
+<head>+
+	<title>An Example Website</title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
